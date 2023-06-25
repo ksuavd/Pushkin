@@ -1,0 +1,30 @@
+h1 {
+    margin: 0;
+    padding: 0;
+    font-weight:300;
+    margin-top: 10px;
+   }
+.p1{
+   
+    font-weight: 600; 
+}
+.p2{
+   
+    margin-left: 30px;
+    font-style:oblique;
+}
+a {
+    color: blue; text-decoration: none;
+   } 
+a:active {
+    color: blue; text-decoration: none;
+    }
+a:visited {
+    text-decoration: none; 
+        color: #4c297a; 
+       } 
+a:hover { 
+    text-decoration: underline; 
+    color: blue;  
+}
+
